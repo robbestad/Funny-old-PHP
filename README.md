@@ -12,11 +12,9 @@ So, you can start PHP like this: __<%__ ... __%>__
 
 It's got an echo mode as well:   __<%=__ ... __%>__
 
-But, hey, it would be stupid to stop here. Why not try this?
+But, hey, why stop there. Why not try this?
 
 ```__<script language="php">__ ... __</script>__```
-
-Of course it works. :) 
 
 The funny thing is that you can mix and match. So you can open
 with classic __<?php__ and close with  __%>__. Or you can open 
